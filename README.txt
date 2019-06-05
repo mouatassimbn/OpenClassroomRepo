@@ -11,4 +11,9 @@ purpose except fullfil the conditions given in the activity.
 
 Thanks for reading !
 
-MSBN 
+MSBN
+
+---------------------------------------------------------------
+
+This's part 2 of this document!
+m an aspiring devellopper who's intrested in mastering javascript and c++. 
